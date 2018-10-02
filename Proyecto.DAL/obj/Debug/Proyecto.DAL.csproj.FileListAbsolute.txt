@@ -11,3 +11,10 @@ C:\Users\marih\Documents\Cosas de la U\segundo cuatri de la U 2018\progra 5\Proy
 C:\Users\marih\Documents\Cosas de la U\segundo cuatri de la U 2018\progra 5\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.csproj.CopyComplete
 C:\Users\marih\Documents\Cosas de la U\segundo cuatri de la U 2018\progra 5\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.dll
 C:\Users\marih\Documents\Cosas de la U\segundo cuatri de la U 2018\progra 5\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.pdb
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\bin\Debug\Proyecto.DAL.dll.config
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\bin\Debug\Proyecto.DAL.dll
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\bin\Debug\Proyecto.DAL.pdb
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.dll
+C:\Users\Diego\Source\Repos\ProyectoCine\Proyecto.DAL\obj\Debug\Proyecto.DAL.pdb
